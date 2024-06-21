@@ -2,4 +2,4 @@
 Hola!!!!
 Bienvenidos a sistemas operativos
 Esperemos que tengan buena cursada
-cambios desde el repositorio
+cambios desde el visual code
